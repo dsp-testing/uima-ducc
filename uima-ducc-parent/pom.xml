@@ -157,7 +157,7 @@
 		<commons.math.version>3.2</commons.math.version>
 		<log4j.version>1.2.17</log4j.version>
 		<slf4j.version>1.7.25</slf4j.version>                <!-- updated from 1.6.4 for cassandra -->
-		<xmlbeans.version>2.5.0</xmlbeans.version>
+		<xmlbeans.version>3.0.0</xmlbeans.version>
 		<junit.version>4.8.2</junit.version>
 		<servlet.api.version>2.5</servlet.api.version>
 		<commons.management.version>1.0</commons.management.version>
